@@ -1,0 +1,15 @@
+TEACHER T1:
+        Department: Electronics and Communication
+        Areas of interest: IoT, Robotics, Machine Learning
+TEACHER T2:
+        Department: Mechanical
+        Areas of interest: Thermodynamics, Automation
+TEACHER T3:
+        Department: Electronice and Communication
+        Areas of interest: Data Science, Wireless Communication
+TEACHER T4:
+        Department: Computer Science
+        Areas of interest: Cybersecurity, Virtual Reality
+TEACHER T5:
+        Department: Mechanical
+        Areas of interest: Computational Mechanics, IoT

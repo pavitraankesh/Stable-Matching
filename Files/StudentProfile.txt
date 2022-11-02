@@ -1,0 +1,15 @@
+STUDENT S1:
+        Department: Computer Science
+        Areas of interest: Cloud Computing, Computer Networks      
+STUDENT S2:
+        Department: Electronics and Communication
+        Areas of interest: Automation and Robotics, Virtual Reality        
+STUDENT S3:
+        Department: Electronics and Communication
+        Areas of interest: Wireless Communication, Machine Learning, Data Science        
+STUDENT S4:
+        Department: Mechanical 
+        Areas of interest: Automation Technologies, Entrepreneurship        
+STUDENT S5:
+        Department: Computer Science
+        Areas of interest: Cloud Computing, IoT, Cybersecurity
